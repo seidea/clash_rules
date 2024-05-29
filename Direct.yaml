@@ -1,6 +1,6 @@
 payload:
  - DST-PORT,123 # time.apple.com IPv6
- # - IP-CIDR,208.54.0.0/16,no-resolve # Wi-Fi Calling
+ - IP-CIDR,208.54.0.0/16,no-resolve # Wi-Fi Calling
  - DOMAIN-SUFFIX,gameloft.com # Gameloft
  - IP-CIDR,54.172.170.0/24,no-resolve # Amazon & Gameloft
  - DOMAIN-SUFFIX,three.com.hk # 3HK
