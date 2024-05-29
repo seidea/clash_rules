@@ -1,2 +1,2 @@
 payload:
- - IP-CIDR,208.54.0.0/16,no-resolve # Wi-Fi Calling
+# - IP-CIDR,208.54.0.0/16,no-resolve # Wi-Fi Calling
