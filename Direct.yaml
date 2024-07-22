@@ -8,3 +8,5 @@ payload:
  - DOMAIN-SUFFIX,zhs.futbol
 # - DOMAIN-SUFFIX,rousi.zip
  - DOMAIN-SUFFIX,qbittorrent.org
+ - DOMAIN-SUFFIX,m-team.io
+ - DOMAIN-SUFFIX,m-team.cc
