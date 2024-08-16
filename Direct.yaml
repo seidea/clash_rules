@@ -7,5 +7,4 @@ payload:
  - DOMAIN-SUFFIX,nyjvbs.xyz
  - DOMAIN-SUFFIX,zhs.futbol
 # - DOMAIN-SUFFIX,rousi.zip
- - DOMAIN-SUFFIX,qbittorrent.org
- - DOMAIN-KEYWORD,m-team
+# - DOMAIN-KEYWORD,m-team
