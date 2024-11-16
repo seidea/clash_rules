@@ -1,7 +1,7 @@
 payload:
     - +.qbittorrent.org
-    - +.m-team.cc
-    - +.m-team.io
+#    - +.m-team.cc
+#    - +.m-team.io
     - +.myqnapcloud.io
     - +.myqnapcloud.com
     - +.qnap.com
